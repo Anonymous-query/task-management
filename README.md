@@ -60,8 +60,8 @@ task_manager/
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/task-manager-api.git
-   cd task-manager-api
+   git clone https://github.com/yourusername/task-management.git
+   cd task-management
    ```
 
 2. **Install dependencies**
